@@ -1,3 +1,4 @@
+<!-- I want to review in Japanese. -->
 ## ✨ 概要
 （変更の目的 もしくは 関連する Issue 番号）
 
@@ -15,3 +16,5 @@
 ## ✔️ 動作確認した内容
 
 ## ☕ 補足
+
+<!-- I want to review in Japanese. -->
